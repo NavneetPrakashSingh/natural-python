@@ -1,4 +1,4 @@
-# Using data Science with Natural Language Processing
+# Using Data Science with Natural Language Processing
 
 ## Abstract
 
